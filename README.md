@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Scrapy, Predictive models**
 
-- 📫 How to reach me **https://www.linkedin.com/in/davidnartey/**
+- 📫 How to reach me **Connect with me on LinkedIn**
 
 - ⚡ Fun fact **I enjoy cooking or baking sometimes**
 
