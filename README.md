@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Nartey</h1>
-<h3 align="center">A passionate frontend developer in Stockholm</h3>
+<h3 align="center">A passionate frontend developer in Stockholm, Sweden</h3>
 
 - 🔭 I’m currently working on **building up my GitHub profile with Data engineering & Data-science projects**
 
