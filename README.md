@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Scrapy, Predictive models**
 
-- 📫 How to reach me **Connect with me on LinkedIn**
-
 - ⚡ Fun fact **I enjoy cooking or baking sometimes**
+
+- 📫 How to reach me **Connect with me on LinkedIn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
