@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Scrapy, Predictive models**
 
-<h3 align="left">Contact: <a href="https://linkedin.com/in/davidnartey" target="_blank">Connect with me</a></h3>
+<h3 align="left">You Can: <a href="https://linkedin.com/in/davidnartey" target="_blank">Connect with me</a></h3>
 <p align="left">
 <a href="https://linkedin.com/in/davidnartey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davidnartey" height="30" width="40" /></a>
 </p>
