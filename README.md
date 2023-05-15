@@ -1,15 +1,11 @@
-<h1 align="center">Hi 👋, I'm David </h1>
-<h3 align="center">A Data enthusiast in Stockholm, Sweden</h3>
+<h1 align="left">Hi 👋, I'm David </h1>
+<h3 align="left">A Data enthusiast in Stockholm, Sweden</h3>
 
 - 🔭 I’m currently working on **building up my GitHub profile with Data engineering & Data-science projects**
 
 - 🌱 I’m currently learning **Scrapy, Predictive models**
 
-- ⚡ Fun fact **I enjoy cooking or baking sometimes**
-
-- 📫 How to reach me **Connect with me on LinkedIn**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact: <a href="https://linkedin.com/in/davidnartey" target="_blank">Connect with me</a></h3>
 <p align="left">
 <a href="https://linkedin.com/in/davidnartey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davidnartey" height="30" width="40" /></a>
 </p>
