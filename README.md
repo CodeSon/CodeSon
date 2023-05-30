@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on **Data engineering & Data-science projects**
 
-- 🌱 I’m currently learning **Scrapy, Predictive models**
 
 <h3 align="left">You Can: <a href="https://linkedin.com/in/davidnartey" target="_blank">Connect with me :</a></h3>
 <p align="left">
