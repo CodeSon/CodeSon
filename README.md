@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm David</h1>
-<h3 align="left">Data Platform & Analytics Engineer | Stockholm</h3>
+<h3 align="left">Data Platform & Analytics Engineer | Stockholm | United Kingdom</h3>
 
 - 🛠 I design and build modern data platforms using Azure, Power BI, and Python.
 - 🧠 I think end-to-end: APIs → ingestion → lakehouse → semantic models → dashboards.
